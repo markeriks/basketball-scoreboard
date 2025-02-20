@@ -93,7 +93,9 @@ h3 {
         margin: auto;
     }
 
-    
+    .score-add {
+        width: 100%;
+    }
 
     .mobile-add {
         display: flex;
