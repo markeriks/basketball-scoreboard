@@ -1,6 +1,6 @@
 # Basketball Scoreboard Website
 
-A simple **basketball scoreboard** website that displays the score and game timer for a basketball game.
+A simple **basketball scoreboard** website that displays the score and for a basketball game.
 
 ## Installation
 
